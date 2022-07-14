@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simulator</string>
+    <string name="txt_simulation_button">Matches simulation button.</string>
+    <string name="txt_home_team_image">home team image.</string>
+    <string name="txt_versus" translatable="false">VS</string>
+    <string name="txt_away_team_image">Away Team Image.</string>
 </resources>
