@@ -4,4 +4,5 @@
     <string name="txt_simulation_button">Botão para Simulação de Partidas.</string>
     <string name="txt_home_team_image">Imagem do Time da Casa.</string>
     <string name="txt_away_team_image">Imagem do Time Visitante.</string>
+    <string name="error_api">Erro Inesperado.</string>
 </resources>

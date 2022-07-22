@@ -1,4 +1,4 @@
-package com.henrique.matheus.simulator
+package com.henrique.matheus.simulator.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
